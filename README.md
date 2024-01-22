@@ -37,7 +37,7 @@ These columns were start_station_name, start_station_id, end_station_name, end_s
 
 ### **Transform**
 
-[**Excel, Powewr & R**](https://github.com/Gnpavan/Google_Cyclists_Capstone/blob/main/Capstone_Overview.pdf)
+[**Excel, Power BI & R**](https://github.com/Gnpavan/Google_Cyclists_Capstone/blob/main/Capstone_Overview.pdf)
 
 ### **Analyse**
 
