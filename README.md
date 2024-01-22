@@ -76,5 +76,8 @@ It is observed that the average lengths are more on the weekends and public holi
 
 Investment in ads is needed. Advertising in platforms like Spotify, making an ad promoting the discounts suggested above in a platform like Spotify would gather a lot of annual membership. It is also suggested investing in ads on podcasts, YouTube content creators and twitter pages of which most of the fanbase is composed of bikers, YouTube channels about biking and exercise would be a good example. A Cyclists app with a personal profile that takes in consideration how each rider uses the company services and makes recommendations on how to maximize the potential of Cyclists is created. It should include the promotions available and the benefits of becoming an annual member.
 
+### **Course Competion Certificate**
+
+<img width="399" alt="image" src="https://github.com/Gnpavan/Google_Cyclists_Capstone/assets/89655397/857445c2-099b-4842-943d-e887a0eea5bb">
 
 
