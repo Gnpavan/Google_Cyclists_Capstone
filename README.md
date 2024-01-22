@@ -37,6 +37,43 @@ These columns were start_station_name, start_station_id, end_station_name, end_s
 
 ### **Transform**
 
-**Microsoft Excel**[https://github.com/Gnpavan/Google_Cyclists_Capstone/blob/main/Capstone_Overview.pdf]
+[**Excel, Powewr & R**](https://github.com/Gnpavan/Google_Cyclists_Capstone/blob/main/Capstone_Overview.pdf)
+
+### **Analyse**
+
+[**R**](https://github.com/Gnpavan/Google_Cyclists_Capstone/blob/main/Cyclists_Capstone_R_Code.R)
+
+### **Share**
+
+Due to limit on size of the file could not upload the Power BI Dashboard file below is the image of the same.
+[**Power BI**](https://github.com/Gnpavan/Google_Cyclists_Capstone/blob/main/Cyclists_Capstone_Dashboard_Image.png)
+[**Tableau**](https://github.com/Gnpavan/Google_Cyclists_Capstone/blob/main/Cyclists_Capstone_Tableau_Dashboard.twb)
+
+### **Act**
+
+Below you will find a summary of my key findings. Based on the findings I will answer the questions that was initially made in the Ask phase.
+
+**Key Findings**
+
+-	Members had the bigger share of rides, amounting to a total of 63% of all rides.
+-	The average ride length for annual members (12m53s) was less than half of the average ride length of casual riders (28m25s)
+-	However, when talking about average ride length both members and casual riders tend to take longer rides on weekends.
+-	Both members and casual riders use Cyclists more in the Afternoon, that time of the day amounts to 43.59% of all rides. The busiest hour turned out to be 16:00/4 PM for both members and casual riders, with 10% of all rides and the average ride lengths are more in the evenings and at the nights.
+-	The busiest month for casual riders was July, as for members the busiest was actually August. The 3rd Quarter was the busiest, counting for 40.77% of all rides which was expected being that it includes most of the summer season.
+
+**Suggestions**
+
+- How do annual members and casual riders use Cyclists bikes differently?
+  
+Based on what was found casual riders tend to use Cyclists to make longer rides, the average ride length of casual riders (28 min) more than doubles the average ride length of annual members (13 min), which screams in the eyes of casual riders using Cyclists (buying a daily pass or single ride) “only” makes sense if they are going to take longer rides. This is supported by the fact that casual riders have a smaller percentage of the total rides (~37%), concluding that annual members use Cyclists with more freedom since they don’t have to be concerned with maximizing their rides, they can always take a short ride, stop and take another with no downside.
+
+-	What would make casual riders buy a membership? 
+
+It is observed that the average lengths are more on the weekends and public holidays for both casual with lesser rides suggests that they use bikes only as a medium of transport maybe roam around to have fun and members use it more often than not even on the weekdays shows that they use bikes to travel for their work or something like that, so annual memberships save a lot for people who use it for their office. To attract casual riders maybe give some discounts on the annual memberships also try tom increase the price for single and daily passes.
+
+-	How can Cyclists use digital media to influence casual riders to become members? 
+
+Investment in ads is needed. Advertising in platforms like Spotify, making an ad promoting the discounts suggested above in a platform like Spotify would gather a lot of annual membership. It is also suggested investing in ads on podcasts, YouTube content creators and twitter pages of which most of the fanbase is composed of bikers, YouTube channels about biking and exercise would be a good example. A Cyclists app with a personal profile that takes in consideration how each rider uses the company services and makes recommendations on how to maximize the potential of Cyclists is created. It should include the promotions available and the benefits of becoming an annual member.
+
 
 
