@@ -47,7 +47,6 @@ These columns were start_station_name, start_station_id, end_station_name, end_s
 
 Due to limit on size of the file could not upload the Power BI Dashboard file below is the image of the same.
 <img width="645" alt="image" src="https://github.com/Gnpavan/Google_Cyclists_Capstone/assets/89655397/04c0bb4a-861c-404e-854c-d2ce6c2658f2">
-[**Power BI**](https://github.com/Gnpavan/Google_Cyclists_Capstone/blob/main/Cyclists_Capstone_Dashboard_Image.png)
 
 [**Tableau**](https://github.com/Gnpavan/Google_Cyclists_Capstone/blob/main/Cyclists_Capstone_Tableau_Dashboard.twb)
 
