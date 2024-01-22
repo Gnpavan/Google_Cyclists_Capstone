@@ -1,1 +1,3 @@
-# Google_Cyclists_Capstone
+# **Google_Cyclists_Capstone**
+
+## **Phases**
